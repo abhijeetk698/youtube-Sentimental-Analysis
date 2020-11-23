@@ -9,7 +9,7 @@
 large part of main.py is the work of 
 
 ## running script
-`python3 main.py --videoid=Zj8h3ZSc-Aw` , 'Zj8h3ZSc-Aw' is id in this case.
+`python3 main.py --videoid=gtC-UPk3u8I` , 'gtC-UPk3u8I' is id in this case.
 
 ## dataset
 after running the py script, you should be able to see your own compound.csv
